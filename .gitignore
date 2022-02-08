@@ -67,3 +67,7 @@ venv.bak/
 *test*
 .DS_Store
 *.swp
+
+# datasets and intermediate files 
+fluffy_dogs/ 
+export/
